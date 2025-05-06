@@ -51,6 +51,8 @@ Script ini digunakan untuk mengelompokkan beberapa `CustomizableElement` agar bi
 5. Tambahkan semua elemen ke list **Elements**.
 6. Gunakan `Next Style()` / `Previous Style()` untuk mengganti sprite semua elemen sekaligus.
 
+![Preview Customization Setup](screenshots/customization-setup.png)
+
 #### 🧠 Catatan:
 - `PositionedSprite` dapat menyesuaikan posisi tiap sprite berbeda (opsional).
 - Pastikan jumlah sprite > 1 agar fitur dapat terlihat.
@@ -68,6 +70,10 @@ Script ini digunakan untuk mengelompokkan beberapa `CustomizableElement` agar bi
    - Tambahkan script `CustomizableGroupController` ke objek kontrol.
    - Tambahkan elemen `CustomizableElement` ke list `Elements`.
    - Isi `Shared Colors` dengan daftar warna yang diinginkan.
+
+![Preview Customization Group Setup](screenshots/customization-groub-controller-setup.png)
+
+![Preview Customization test](screenshots/test-preview.png)
 
 #### 🧠 Tips:
 - Pastikan alpha warna tidak 0 (transparan).
@@ -90,4 +96,5 @@ Script ini digunakan untuk mengelompokkan beberapa `CustomizableElement` agar bi
 - Pastikan SALSA terhubung ke sumber audio (mic atau file).
 - Cek dokumentasi resmi SALSA untuk pengaturan lanjutan.
 
+![Preview Lypsync Setup](screenshots/lypsync-setup.png)
 ---
