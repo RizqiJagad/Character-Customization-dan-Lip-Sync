@@ -85,11 +85,10 @@ Script ini digunakan untuk mengelompokkan beberapa `CustomizableElement` agar bi
 
 #### 📁 Langkah-langkah:
 1. Import plugin **SALSA LipSync** dari Asset Store ke proyek.
-2. Buat GameObject untuk kepala/karakter.
-3. Tambahkan komponen `SALSA` ke objek tersebut.
-4. Tambahkan komponen `AudioSource` dan input audio file (VO).
-5. Siapkan sprite viseme (mulut) untuk tiap suara: A, E, U, O, L, dll.
-6. Di SALSA, hubungkan sprite viseme ke masing-masing ekspresi.
+2. Tambahkan komponen `SALSA` ke objek tersebut.
+3. Tambahkan komponen `AudioSource` dan input audio file (VO).
+4. Siapkan sprite viseme (mulut) untuk tiap suara: A, E, U, O, L, dll.
+5. Di SALSA, hubungkan sprite viseme ke masing-masing ekspresi.
 
 #### 🧠 Tips:
 - Gunakan `SpriteRenderer` yang berbeda untuk mulut.
